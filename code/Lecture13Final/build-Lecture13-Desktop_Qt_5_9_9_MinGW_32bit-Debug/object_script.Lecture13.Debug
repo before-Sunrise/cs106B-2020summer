@@ -1,0 +1,12 @@
+INPUT(
+./debug/juryselection.o
+./debug/main.o
+./debug/maze.o
+./debug/mazegraphics.o
+./debug/subsets.o
+./debug/spl.o
+./debug/MemoryDiagnostics.o
+./debug/TestDriver.o
+./debug/TestingGUI.o
+./debug/TextUtils.o
+);

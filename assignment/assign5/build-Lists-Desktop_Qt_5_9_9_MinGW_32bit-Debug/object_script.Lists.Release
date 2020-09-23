@@ -1,0 +1,12 @@
+INPUT(
+./release/labyrinth.o
+./release/main.o
+./release/sorting.o
+./release/warmup.o
+./release/spl.o
+./release/MazeGenerator.o
+./release/MemoryDiagnostics.o
+./release/TestDriver.o
+./release/TestingGUI.o
+./release/TextUtils.o
+);

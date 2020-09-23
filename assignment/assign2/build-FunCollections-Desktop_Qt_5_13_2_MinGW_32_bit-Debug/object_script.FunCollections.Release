@@ -1,0 +1,10 @@
+release/adtwarmup.o
+release/main.o
+release/maze.o
+release/mazegraphics.o
+release/search.o
+release/spl.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

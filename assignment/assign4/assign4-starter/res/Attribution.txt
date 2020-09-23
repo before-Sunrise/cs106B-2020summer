@@ -1,0 +1,18 @@
+This assignment would not have been possible without different organizations and entities, both public and private, generously providing data files to the world. Here's where the different data sets compiled came from.
+
+Mollweide projection for the earthquake visualization modified from one taken from
+  https://www.abysse.co.jp/world-e/map/mollwide_ame_off.html
+
+Child mortality data taken from the United Nations' Millennium Development Goals site:
+  https://millenniumindicators.un.org/unsd/mdg/Data.aspx
+
+Women's 800m Freestyle data taken from
+  ... the International Olympic Committee (https://www.olympic.org/swimming/800m-freestyle-women)
+  ... FINA (http://www.fina.org/competition-detailed-results/)
+
+
+Earthquake data pulled live from the US Geological Survey APIs:
+  https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson
+  https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
+  https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+  https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson

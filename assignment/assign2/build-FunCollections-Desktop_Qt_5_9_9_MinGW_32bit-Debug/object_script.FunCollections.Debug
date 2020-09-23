@@ -1,0 +1,12 @@
+INPUT(
+./debug/adtwarmup.o
+./debug/main.o
+./debug/maze.o
+./debug/mazegraphics.o
+./debug/search.o
+./debug/spl.o
+./debug/MemoryDiagnostics.o
+./debug/TestDriver.o
+./debug/TestingGUI.o
+./debug/TextUtils.o
+);

@@ -1,0 +1,10 @@
+debug/binarysearch.o
+debug/ghanoi.o
+debug/main.o
+debug/sequences.o
+debug/towers.o
+debug/spl.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

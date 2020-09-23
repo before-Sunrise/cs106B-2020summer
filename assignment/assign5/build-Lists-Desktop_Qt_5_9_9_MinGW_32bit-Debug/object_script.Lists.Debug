@@ -1,0 +1,12 @@
+INPUT(
+./debug/labyrinth.o
+./debug/main.o
+./debug/sorting.o
+./debug/warmup.o
+./debug/spl.o
+./debug/MazeGenerator.o
+./debug/MemoryDiagnostics.o
+./debug/TestDriver.o
+./debug/TestingGUI.o
+./debug/TextUtils.o
+);

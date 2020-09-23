@@ -1,0 +1,10 @@
+release/binarysearch.o
+release/ghanoi.o
+release/main.o
+release/sequences.o
+release/towers.o
+release/spl.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

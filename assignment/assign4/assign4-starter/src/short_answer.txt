@@ -1,0 +1,49 @@
+Before submitting this file, make sure that there are no more TODO
+values left in the file (besides the one in this introduction of course).
+
+Warmup and Debugging Exercise
+-----------------------------
+Q1: How do the values of the member variables of `allBalls[0]` change from iteration to iteration? Specifically, what happens to the values of `id`, `x`, and `y`?
+A1: TODO 
+
+Q2: What is the pattern to how the values of the member variables of the stuck ball change from iteration to iteration?
+A2: TODO
+
+Q3: After placing the stuck ball at (0, 0), does it move normally from there or does it stay stuck?
+A3: TODO
+
+Q4: On your system, what is the observed consequence of each of the three errors?
+A4: TODO
+
+
+Sorted Array Priority Queue
+---------------------------
+Q5: Give the results from your time trials and explain how is supports your Big O prediction for enqueue and dequeue.
+A5: TODO
+
+Q6: If the PQSortedArray stored the elements in order of lowest-to-highest priority value instead of highest-to-lowest, what impact would this have on the Big O runtimes of enqueue and dequeue?
+A6: TODO
+
+Priority Queue Client Usage
+---------------------------
+Q7: Given the runtime of PQSortedArray enqueue/dequeue, what will be the runtime of pqSort? Run some timing trials to confirm your prediction, and include the data you collected in your final answer.
+A7: TODO
+
+
+Q8: Given the runtime of PQSortedArray enqueue/dequeue, what will be the runtime of topK? Run some timing trials to confirm your prediction, and include the data you collected in your final answer.
+A8: TODO
+
+Heap Priority Queue
+-------------------
+Q9: Draw the binary heap formed by inserting the specified nine DataPoints into an empty binary heap. Specifically, insert those data points in the other that's shown below. You only need to show your final answer, not your intermediate steps. Yes, we know that we're asking you to draw pictures in a text file (so here's a useful tool for "drawing" the binary heaps: http://asciiflow.com/).
+A9: TODO
+
+Q10: Draw the binary heap that results after two calls to the `dequeue` operation on the heap you drew in Q9.
+A10: TODO
+
+Q11: Draw the array representation of the binary heap that you drew in Q10.
+A11: TODO
+
+
+Q12: Run timing trials and provide your results that confirm that pqSort runs in time O(NlogN) and topK in O(NlogK).
+A12: TODO

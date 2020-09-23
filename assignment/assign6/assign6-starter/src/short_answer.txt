@@ -1,0 +1,25 @@
+Before submitting this file, make sure that there are no more TODO
+values left in the file (besides the one in this introduction of course).
+
+Warmup
+------
+Q1: Decode the character(s) from the bit sequence `0101100011`
+A1: TODO 
+
+Q2: Encode the string "SONS" into its bit sequence.
+A2: TODO
+
+Q3: Give the flattened sequences for the encoding tree that you used for Questions 1 and 2.
+A3: TODO
+
+Q4: Cover up the example trees and confirm that you can correctly rebuild the tree from its flattened sequences. What process did you go through to convince yourself that you could properly rebuild the tree from the two flattened sequences?
+A4: TODO
+
+Q5. Show an optimal Huffman coding tree for the input "BOOKKEEPER".
+A5: TODO
+
+Q6. A node in a Huffman coding tree has two non-null children or zero. Why is not possible for a node to have just one non-null child?
+A6: TODO
+
+Q7. Describe the difference in shape of a Huffman coding tree that will lead to significant savings for compression versus one that will achieve little to no compression.
+A7: TODO

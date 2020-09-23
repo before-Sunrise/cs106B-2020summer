@@ -1,0 +1,37 @@
+Before submitting this file, make sure that there are no more TODO
+values left in the file (besides the one in this introduction of course).
+
+Feedback Reflection Exercise
+---------------------------
+Q0: Over the course of the quarter, your section leader has been providing qualitative feedback on your assignments via comments on your submissions in Paperless. Reading and understanding those comments is an important component of the growth process when it comes to mastering concepts and improving your programming style. Take the time right now to go back through your SLs comments on your previous assignments (Assignments 1 - 3, and potentially Assignment 4 if you've already received feedback on that). What are your main takeaways from the comments that your SL left? Will you be focusing on anything in particular as you start working on this assignment? Mention at least one point of improvement that you hope to make when working through this assignment, whether it be in concept mastery and code correctness (functionality) or coding style. Please answer these questions/provide your thoughts on the aforementioned prompts in a couple of sentences below.
+A0: TODO 
+
+Warmup and Debugging Exercise
+-----------------------------
+Q1: What does the yellow background for a test case indicate in the SimpleTest result window?
+A1: TODO
+
+Q2: What does SimpleTest report when a test case has both a correctness failure AND a memory leak? (Note that you may have to edit a test in order to check this.)
+A2: TODO
+
+Q3: Running on your system, what is the result of running these tests? Under what circumstances (if any) were you able to observe consequences of the buggy code?
+A3: TODO
+
+Q4: How is a segmentation fault presented on your system? 
+A4: TODO
+
+Labyrinth
+---------
+Q5: What is another legal path through the example labyrinth that gathers all three needed items?
+A5: TODO
+
+Sorting Lists
+-------------
+Q6: The prototypes for both sort functions take a ListNode* by reference. Explain why the pointer itself need to be passed by reference and what would be the consequence if it were not.
+A6: TODO
+
+Q7: Run timing trials and provide your results that confirm that your algorithm runs in O(NlogN).
+A7: TODO
+
+Q8: Run timing trials compare your linked list sort to Vector sort on the same sequence and report the results. Who wins and why?
+A8: TODO

@@ -1,0 +1,46 @@
+Before submitting this file, make sure that there are no more TODO
+values left in the file (besides the one in this introduction of course).
+
+Warmup and Debugging Exercise
+-----------------------------
+Q1. Is the first queue element displayed in debugger pane (element [0]) the element at front of queue or the back?  Is the first stack element displayed on the top of stack or the bottom?
+A1: front, bottom
+
+
+Q2: What must be true about the input to `duplicateNegatives` for it to produce correct output?
+A2: all positive
+
+
+Q3: For which type of inputs does `duplicateNegatives ` go into an infinite loop?
+A3: all negative
+
+
+Q4. What is the bug within `duplicateNegatives ` that causes it to get stuck in a loop?
+A4: while travese the queue, edit the queue's size
+
+
+Q5: What is the state of the variables (as reported in the debugger variable pane) right 
+before the removeMatchPair function crashes? What happens if you try to step over the line 
+where the program crashes?
+A5: remove 操作之后，下一个for each loop执行后程序崩溃
+
+Maze
+-------
+Q6. So far in this class, we've passed our data structures by reference. Why do you 
+think `checkSolution` passes path by value instead of by reference?
+A6: because we need to pop the element from the stack of path
+
+Q7. After you have written your tests, describe your testing strategy to determine 
+that your `checkSolution` works as intended.
+A7: TODO
+
+Q8. Describe the malformed maze files you created in order to verify the robustness 
+of your maze reading.
+A8: TODO 
+
+
+Search Engine
+-------------
+Q9: What would the sample inverted index for the tiny.txt file look like?
+A9: TODO
+

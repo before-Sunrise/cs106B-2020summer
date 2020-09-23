@@ -1,0 +1,12 @@
+INPUT(
+./release/juryselection.o
+./release/main.o
+./release/maze.o
+./release/mazegraphics.o
+./release/subsets.o
+./release/spl.o
+./release/MemoryDiagnostics.o
+./release/TestDriver.o
+./release/TestingGUI.o
+./release/TextUtils.o
+);

@@ -1,0 +1,112 @@
+Before submitting this file, make sure that there are no more TODO
+values left in the file (besides the one in this introduction of course).
+
+Fundamental Warmup
+------------------
+Q1. If looking at a call stack, what would be the indication that the
+program being debugged uses recursion?
+A1:  same function name appears in the continuous stack frame
+
+
+Q2: What is the value of parameter `n` at level 0 in the call stack?
+What is the highest numbered level shown in the call stack?
+A2:  n == -65081
+
+
+Q3:  Describe the difference in observed symptoms of a program that
+goes into an infinite loop versus one that goes into infinite recursion.
+A3: 栈溢出程序会突然中止，而无限循环程序会一直运行
+
+
+Q4. What are the specific values of base/exp that result in a test failure?
+A4: TODO
+
+
+Q5: Of the four base cases, which do you think are redundant and can
+be removed from the function? Which do you think are absolutely necessary?
+Are there any base cases that you're unsure about?
+A5: TODO
+
+
+Q6: Explain why removing the redundant base cases fixed the test failure.
+A6: TODO
+
+
+Q7: What is the result of attempting to compute 0 raised to a negative
+power without a special case for base == 0?
+A7: TODO
+
+
+Balance Operators
+-----------------
+Q8: Compare your recursive solution to the iterative approach used for the
+Check Balance problem in Section1. Which version do you find easier to
+read and understand? Which version is easier to confirm that it has the
+correct behavior?
+A8: TODO
+
+Sierpinski
+-----------
+Q8. Without automated unit tests, you need to develop new techniques for
+test coverage. What were the strategies you used for testing Sierpinski?
+A8: TODO
+
+Merge
+-----
+Q9: Give a rough estimate of the maximum length sequence that could be
+successfully merged on your system assuming a recursive implementation of
+binary merge.
+A9: TODO
+
+Q10: What would be the observed behavior if attempting to merge a sequence
+larger than that maximum?
+A10: TODO
+
+Q11: Include the data from your execution timing and explain how it supports
+your Big O prediction for merge.
+A11: TODO
+
+Q12. Include the data from your execution timing and explain how it supports
+your Big O prediction for multiMerge.
+A12: TODO
+
+Q13: Include the data from your execution timing and explain how it supports
+O(n log k) behavior for recMultiMerge.
+A13: TODO
+
+Q14: Earlier you worked out how a recursive implementation of merge would
+limit the allowable input sequence length. Are the limits on the call stack
+also an issue for the recursive implementation of recMultiMerge? Explain why
+or why not.
+A14: TODO
+
+
+Backtracking Warmup
+-------------------
+Q15: What is the value of the totalMoves variable in hanoiAnimationafter
+stepping over the call to moveTower?
+A15: TODO
+
+Q16: What is the value of the totalMoves variable inside the first moveTower
+call after stepping over its first recursive sub-call? (In other words, just
+after stepping over the first recursive sub-call to moveTower inside the else
+statement in the recursive function.)
+A16: TODO
+
+Q17: After breaking at the base case of moveTower and then choosing Step Out,
+where do you end up? (What function are you in, and at what line number?) What
+is the value of the totalMoves variable at this point?
+A17: TODO
+
+Q18: What is the smallest possible input that you used to trigger the bug in 
+the program?
+A18: TODO
+
+Q19: What is the one-character error in the program?
+A19: TODO
+
+Q20: Explain why that one-character bug causes the function to return the exact
+output you see when you feed in the input you provided in Q5. You should be able
+to specifically account for where things go wrong and how the place where the error
+occurs causes the result to change from “completely correct” to “terribly wrong.”
+A20: TODO
