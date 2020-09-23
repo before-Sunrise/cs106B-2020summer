@@ -1,0 +1,15 @@
+INPUT(
+./release/change.o
+./release/main.o
+./release/pyramid.o
+./release/shuffle.o
+./release/squares.o
+./release/sum.o
+./release/weights.o
+./release/zigzag.o
+./release/spl.o
+./release/MemoryDiagnostics.o
+./release/TestDriver.o
+./release/TestingGUI.o
+./release/TextUtils.o
+);

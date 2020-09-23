@@ -1,0 +1,16 @@
+INPUT(
+./debug/braid.o
+./debug/double.o
+./debug/height.o
+./debug/insert.o
+./debug/main.o
+./debug/sorted.o
+./debug/threshold.o
+./debug/utility.o
+./debug/warmup.o
+./debug/spl.o
+./debug/MemoryDiagnostics.o
+./debug/TestDriver.o
+./debug/TestingGUI.o
+./debug/TextUtils.o
+);

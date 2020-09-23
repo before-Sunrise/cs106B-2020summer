@@ -1,0 +1,11 @@
+debug/crosssum.o
+debug/deduplicate.o
+debug/main.o
+debug/mirror.o
+debug/piglatin.o
+debug/sum.o
+debug/spl.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

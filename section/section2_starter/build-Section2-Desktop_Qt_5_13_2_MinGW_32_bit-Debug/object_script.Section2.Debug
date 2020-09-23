@@ -1,0 +1,11 @@
+debug/balance.o
+debug/contacts.o
+debug/doublequeue.o
+debug/friendlist.o
+debug/main.o
+debug/twice.o
+debug/spl.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

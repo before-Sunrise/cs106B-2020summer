@@ -1,0 +1,11 @@
+release/crosssum.o
+release/deduplicate.o
+release/main.o
+release/mirror.o
+release/piglatin.o
+release/sum.o
+release/spl.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

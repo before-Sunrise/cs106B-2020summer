@@ -1,0 +1,11 @@
+release/balance.o
+release/contacts.o
+release/doublequeue.o
+release/friendlist.o
+release/main.o
+release/twice.o
+release/spl.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

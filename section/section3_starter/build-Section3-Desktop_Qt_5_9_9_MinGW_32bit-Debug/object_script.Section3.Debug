@@ -1,0 +1,15 @@
+INPUT(
+./debug/change.o
+./debug/main.o
+./debug/pyramid.o
+./debug/shuffle.o
+./debug/squares.o
+./debug/sum.o
+./debug/weights.o
+./debug/zigzag.o
+./debug/spl.o
+./debug/MemoryDiagnostics.o
+./debug/TestDriver.o
+./debug/TestingGUI.o
+./debug/TextUtils.o
+);

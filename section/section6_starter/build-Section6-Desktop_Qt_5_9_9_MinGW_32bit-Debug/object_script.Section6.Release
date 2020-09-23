@@ -1,0 +1,16 @@
+INPUT(
+./release/braid.o
+./release/double.o
+./release/height.o
+./release/insert.o
+./release/main.o
+./release/sorted.o
+./release/threshold.o
+./release/utility.o
+./release/warmup.o
+./release/spl.o
+./release/MemoryDiagnostics.o
+./release/TestDriver.o
+./release/TestingGUI.o
+./release/TextUtils.o
+);
